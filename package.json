@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.18.1",
+    "generate-unique-id": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexcraw4d/noteTakerApp.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/lexcraw4d/noteTakerApp/issues"
+  },
+  "homepage": "https://github.com/lexcraw4d/noteTakerApp#readme"
 }
